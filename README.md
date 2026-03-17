@@ -1,1 +1,1 @@
-Open index.html file to preview the page
+Download the whole folder and open index.html file inside the folder to preveiew the page.
