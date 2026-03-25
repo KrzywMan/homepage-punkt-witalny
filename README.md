@@ -1,6 +1,6 @@
 # 🏥 Punkt Witalny - Strona Główna
 
-Projekt prostej i przejrzystej strony internetowej dla punktu medycznego/rehabilitacyjnego "Punkt Witalny". Strona została zaprojektowana z myślą o intuicyjnej nawigacji i szybkim dostępie do informacji o usługach.
+Projekt prostej i przejrzystej strony internetowej dla usług online "Punkt Witalny". Strona została zaprojektowana z myślą o intuicyjnej nawigacji i szybkim dostępie do informacji o usługach.
 
 ## 🚀 Demo
 Strona jest dostępna online pod adresem:
